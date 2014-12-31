@@ -1,0 +1,17 @@
+{
+    "name": "telemetrik/dumper",
+    "description": "Dump util method",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": { "": "src/"},
+        "files": ["src/dump.php"]
+    },
+    "authors": [
+        {
+            "name": "Piotr Kacała",
+            "email": "pkacala@gog.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
